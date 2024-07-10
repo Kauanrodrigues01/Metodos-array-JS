@@ -1,4 +1,3 @@
-
 let livros = []
 const endpointDaAPI = 'https://guilhermeonrails.github.io/casadocodigo/livros.json'
 const btnsFiltro = [...document.querySelectorAll('#btnFiltrarLivrosFront, #btnFiltrarLivrosBack, #btnFiltrarLivrosDados')]
